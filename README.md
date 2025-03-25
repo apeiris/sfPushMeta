@@ -1,7 +1,7 @@
 
-# Adding Picklist Value to Status__c Field in Order__c Object
+# Adding Picklist to ebikes packages
 
-This guide explains how to add a new picklist value to the Status__c field in the Order__c custom object using Salesforce Metadata API through VS Code.
+This guide explains how to add a new picklist value to Sales force EBikes package
 
 ## Prerequisites
 
