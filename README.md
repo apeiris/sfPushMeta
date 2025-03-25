@@ -1,6 +1,5 @@
 
-# Adding item to Status Picklist to ebikes package
-
+# Adding an item to the Status picklist in the eBikes package.
 This guide explains how to add a new picklist value to Sales force EBikes package
 
 ## Prerequisites
